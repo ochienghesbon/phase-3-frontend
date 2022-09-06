@@ -21,7 +21,13 @@ const Header = ({ title, onAdd, showAdd }) => {
     )
 }
 
+Header.defaultProps = {
+    title: 'Temp Title'
+}
 
+Header.propTypes = {
+    title: PropTypes.string.isRequired
+}
 
 
 // CSS in JSX
