@@ -6,6 +6,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Tasks from './Components/Tasks/Tasks';
 import AddTasks from './Components/Tasks/AddTask';
+import User from './Components/User';
 
 function App() {
 
@@ -129,6 +130,8 @@ function App() {
           </>
         ) } />
         <Route path='/about' exact component={About}/>
+        <Route path='/user' exact component={User}/>
+        
         <Footer />
       </div>
     
