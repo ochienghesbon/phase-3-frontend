@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "text": "travelling",
+      "day": "14th tuesday 2022",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "coding",
+      "day": "23rd sep",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "learning",
+      "day": "15th oct 2022",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "dancing",
+      "day": "10th january 2022",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "freelancing",
+      "day": "4th june 2022",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "watching",
+      "day": "22nd Nov 2022",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "praying",
+      "day": "20th sat 2022",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "text": "uuuu",
+      "day": "uuuuu",
+      "reminder": true,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "ouma",
+      "email": "ouma@gmail.com",
+      "id": 1
+    }
+  ]
+}
