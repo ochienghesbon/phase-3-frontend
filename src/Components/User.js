@@ -1,6 +1,25 @@
 import {useState} from "react";
 import { Link } from "react-router-dom";
+const User = () => {
+    const [name,setName]=useState("");
+    const [email,setEmail]=useState("");
 
+    const onSubmit=(e)=>{
+        e.preventDefault();
+        const userData={name:name,email:email}
+        fetch("http://localhost:8000/users", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(userData),
+    })
+    .then((r) => r.json())
+    .then((newUser) => console.log(newUser))
+    setEmail("")
+    setName("")
+    }
     return (
         <div>
              
