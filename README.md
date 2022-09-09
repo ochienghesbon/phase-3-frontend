@@ -4,9 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This task management app lets the Users organize their tasks appropriately.
 
-Front-end Task Tracking Management Interface
+You can use this app in conjunction with my Task Tracking management API
 
-You can use this app in conjunction with my project management API
 ## Available Scripts
 
 In the project directory, you can run:
@@ -18,7 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
 
 ### `npm test`
 
@@ -75,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 Enjoy the project!
+# tracking-system
 # task-tracking-system
