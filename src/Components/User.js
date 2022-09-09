@@ -31,6 +31,7 @@ const User = () => {
                             placeholder='Add Name' 
                             value={name} 
                             onChange={(e) => setName(e.target.value)} 
+                            required
                         />
                     </div>
                     <div className='form-control'>
@@ -40,6 +41,7 @@ const User = () => {
                             placeholder='Email address'
                             value={email} 
                             onChange={(e) => setEmail(e.target.value)} 
+                            required
                         />
                     </div>
 
