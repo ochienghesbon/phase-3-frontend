@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This task management app lets the Users organize their tasks appropriately.
 
-You can use this app in conjunction with my Task Tracking management API
+You can use this app in conjunction with my Task Tracking management API (https://github.com/ochienghesbon/phase-3-sinatra-react-project?organization=ochienghesbon&organization=ochienghesbon)
 
 ## Available Scripts
 
