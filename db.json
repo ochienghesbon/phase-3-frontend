@@ -47,6 +47,12 @@
       "day": "uuuuu",
       "reminder": true,
       "id": 11
+    },
+    {
+      "text": "kdf",
+      "day": "11",
+      "reminder": true,
+      "id": 12
     }
   ],
   "users": [
