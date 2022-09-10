@@ -7,7 +7,7 @@ const User = () => {
     const onSubmit=(e)=>{
         e.preventDefault();
         const userData={name:name,email:email}
-        fetch("http://localhost:8000/users", {
+        fetch("http://localhost:9292/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
